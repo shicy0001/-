@@ -1,2 +1,11 @@
-# -
-包括自己对算法和数据结构的一些整理总结，leetcode上的刷题记录
+LeetCode
+---
+|#|Title|Soulution|Difficulty|
+|---|---|---|---|
+|34|[FindFirstAndLastPositionOfElementInSortedArray](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[C++](https://github.com/shicy0001/leetcode/blob/master/BinarySearch/FindFirstAndLastPositionOfElementInSortedArray/FindFirstAndLastPositionOfElementInSortedArray.cpp)|Medium|
+|153|[FindMinimumInrotatedSortedArray](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)|[C++](https://github.com/shicy0001/leetcode/blob/master/BinarySearch/FindMinimumInrotatedSortedArray/find-minimum-in-rotated-sorted-array.cpp)|Medium|
+|278|[FirstBadVersion](https://leetcode-cn.com/problems/first-bad-version/)|[C](https://github.com/shicy0001/leetcode/blob/master/BinarySearch/FirstBadVersion/FirstBadVersion.cpp)|Easy|
+|374|[GuessNumberHigherOrLower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)|[C++](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)|Easy|
+|50|[powx-n](https://leetcode-cn.com/problems/powx-n)|[C++](https://github.com/shicy0001/leetcode/blob/master/BinarySearch/Pow(x%2Cn)/powx-n.cpp)|Medium|
+|367|[ValidPerfectSquare](https://leetcode-cn.com/problems/valid-perfect-square)|[C++](https://github.com/shicy0001/leetcode/blob/master/BinarySearch/ValidPerfectSquare/ValidPerfectSquare.cpp)|Easy|
+|69|[sqrt(x)](https://leetcode-cn.com/problems/sqrtx)|[C](https://github.com/shicy0001/leetcode/blob/master/BinarySearch/sqrt(x)/sqrt(x).cpp)|Easy|
