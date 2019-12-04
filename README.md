@@ -9,3 +9,4 @@ LeetCode
 |50|[powx-n](https://leetcode-cn.com/problems/powx-n)|[C++](https://github.com/shicy0001/leetcode/blob/master/BinarySearch/Pow(x%2Cn)/powx-n.cpp)|Medium|
 |367|[ValidPerfectSquare](https://leetcode-cn.com/problems/valid-perfect-square)|[C++](https://github.com/shicy0001/leetcode/blob/master/BinarySearch/ValidPerfectSquare/ValidPerfectSquare.cpp)|Easy|
 |69|[sqrt(x)](https://leetcode-cn.com/problems/sqrtx)|[C](https://github.com/shicy0001/leetcode/blob/master/BinarySearch/sqrt(x)/sqrt(x).cpp)|Easy|
+|1|[TwoSum](https://leetcode-cn.com/problems/two-sum/)|[C++](https://github.com/shicy0001/leetcode/blob/master/TopInterviewQuestions/TwoSum/TwoSum.cpp)|Easy|
